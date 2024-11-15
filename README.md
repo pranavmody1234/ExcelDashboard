@@ -41,7 +41,7 @@ The dataset comprises multiple sheets, each containing specific information abou
 
 Below is a preview of the bike sales dashboard included in the project:
 
-![Bike Sales Dashboard](bike_sales_dashboard.png)
+![Bike Sales Dashboard](bikeExcelVisual.png)
 
 > *Note*: Please make sure to upload the image (`bike_sales_dashboard.png`) to the `images` folder in your repository so that it can be properly referenced here.
 
